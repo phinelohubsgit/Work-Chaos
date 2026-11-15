@@ -10,7 +10,7 @@ This project was developed using [Godot](https://godotengine.org/)!
 
 One bug Kaitlyn had to deal with was the music. We were unable to make the music loop over and over and it ruined the overall interface of the game. As well as having the character jump from an obstacle to another because we couldn't figure out the right code.
 
-Add screenshots of the game 
+
 
 ## Download
 Describe how to download it 
